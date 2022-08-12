@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>L o Ultimo En Tecnologia</title>
+<!-- TemplateEndEditable -->
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="../css/templatemo_style.css" rel="stylesheet" type="text/css" />
+<!-- Lo ultimo en tecnologia -->
+<!-- 
+
+-->
+<script type="text/javascript" src="../js/jquery-1-4-2.min.js"></script> 
+<!--script type="text/javascript" src="/jqueryui/js/jquery-ui-1.7.2.custom.min.js"></script--> 
+<script type="text/javascript" src="../js/jquery-ui.min.js"></script> 
+<script type="text/javascript" src="../js/showhide.js"></script> 
+<script type="text/JavaScript" src="../js/jquery.mousewheel.js"></script> 
+
+<link rel="stylesheet" type="text/css" href="../css/ddsmoothmenu.css" />
+<style type="text/css">
+body,td,th {
+    font-size: 36px;
+}
+</style>
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/ddsmoothmenu.js">
+
+/***********************************************
+Esta es mi pagina Web de prueba
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+ddsmoothmenu.init({
+	mainmenuid: "templatemo_menu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+</script> 
+
+<!-- Load the CloudCarousel JavaScript file -->
+<script type="text/JavaScript" src="../js/cloud-carousel.1.0.5.js"></script>
+ 
+<script type="text/javascript">
+$(document).ready(function(){
+						   
+	// This initialises carousels on the container elements specified, in this case, carousel1.
+	$("#carousel1").CloudCarousel(		
+		{			
+			reflHeight: 40,
+			reflGap: 2,
+			titleBox: $('#da-vinci-title'),
+			altBox: $('#da-vinci-alt'),
+			buttonLeft: $('#slider-left-but'),
+			buttonRight: $('#slider-right-but'),
+			yRadius: 30,
+			xPos: 480,
+			yPos: 32,
+			speed:0.15,
+			autoRotate: "yes",
+			autoRotateDelay: 1500
+		}
+	);
+});
+ 
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body id="home">
+
+<div id="templatemo_header_wrapper">
+	<div id="site_title">
+	  <h1><b style="font-size: 48px; color: #FFFFFF; font-family: Tahoma, Geneva, sans-serif;" href="#">Lo Ultimo En Tecnologia</b></h1></div>
+  <div id="templatemo_menu" class="ddsmoothmenu">
+        <ul>
+            <li><a href="../index.html" class="selected">INICIO</a></li>
+            <li><a href="../about.html">TENDENCIAS</a>
+                <ul>
+                 
+                   
+              	</ul>
+           
+          </li>
+           
+        
+        </ul>
+        <br style="clear: left" />
+    </div> <!-- end of templatemo_menu -->
+    <div class="cleaner"></div>
+</div>	<!-- END of templatemo_header_wrapper -->
+<div id="templatemo_slider">
+	<!-- This is the container for the carousel. -->
+    <div id = "carousel1" style="width:960px; height:280px;background:none;overflow:scroll; margin-top: 20px">            
+        <!-- All images with class of "cloudcarousel" will be turned into carousel items -->
+        <!-- You can place links around these images -->
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/01.jpg" alt="CSS Templates 1" title="Website Templates 1" /></a>
+        <a href="#" rel="lightbox"><img src="../images/slider/02.jpg" alt="CSS Templates 2" width="300" class="cloudcarousel" title="Website Templates 2" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/03.jpg" alt="CSS Templates 3" title="Website Templates 3" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/04.jpg" alt="CSS Templates 4" title="Website Templates 4" /></a>
+        <a  href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/05.jpg" alt="Flash Templates 1" title="Flash Templates 1" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/06.jpg" alt="Flash Templates 2" title="Flash Templates 2" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/07.jpg" alt="Flash Templates 3" title="Flash Templates 3" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="../images/slider/08.jpg" alt="Flash Templates 4" title="Flash Templates 4" /></a>
+    </div>
+    
+    <!-- Define left and right buttons. -->
+    <center>
+    <input id="slider-left-but" type="button" value="" />
+    <input id="slider-right-but" type="button" value="" />
+    </center>
+</div>
+<div id="templatemo_main">
+	
+    <div class="col one_third fp_services">
+    <h1>Las Nuevas tendencias tecnológicas que están marcando 2022	  </h1>
+    <h1>1. <span style="font-size: 24px">Metaverso y Realidad Mixta </span></h1>
+    <div id="attachment_16618"><strong>Ha sido seguramente la palabra de moda en 2022</strong> y ha dado lugar a que <a href="https://www.agenciasinc.es/Noticias/Facebook-cambia-su-nombre-por-Meta-para-dar-un-vuelco-al-negocio-y-centrarse-en-la-realidad-virtual#:~:text=El%20cambio%20de%20nombre%20se,pasar%C3%A1%20a%20cotizar%20bajo%20MVRS.">una de las Big Tech cambie su nombre</a>. Para unos es la gran revolución que esperaban y para otros es una vuelta de tuerca a la <a href="https://www.thenewnow.es/?s=realidad+virtual">realidad virtual</a>, <a href="https://www.thenewnow.es/?s=realidad+aumentada">aumentada</a> o <a href="https://www.thenewnow.es/?s=realidad+mixta">mixta</a>. </div>
+<p>&nbsp;</p>
+    <p>&nbsp;</p>
+    </div>
+    <div class="col one_third fp_services">
+        <h2>2. La red 5G</h2>
+        <div class="rp_pp">
+          <div class="cleaner"><strong>Con menos eco del que hubiera obtenido de no ser por la acaparación de espacio informativo que ha tenido la pandemia, el hecho más relevante de 2021 ha sido sin duda el rápido despliegue de la red 5G</strong> que se ha producido en todo el mundo, y especialmente en España, donde solo <a href="https://www.thenewnow.es/negocio/como-5g-revolucionar-tu-empresa/">Vodafone ya da cobertura en más de 29 ciudades y cerca del 80% de la población</a> ya puede conectarse a ella con su <a href="https://www.thenewnow.es/?s=smartphone">smartphone</a>.</div>
+        </div>
+        <div class="rp_pp">
+          <h2>3. Gaming          </h2>
+          <div class="cleaner"><strong>La tercera tendencia para 2022 nos atrevemos a decir que será el mundo del gaming</strong>, como industria y como metodología. Lo hemos mencionado al explicar el origen del <strong>Metaverso</strong>, y como éste, el mundo del juego en línea dará un salto cualitativo abismal con el uso de dispositivos 5G.</div>
+        </div>
+        <div class="rp_pp">
+          <p>&nbsp;</p>
+            <div class="cleaner"></div>
+        </div>
+    </div>
+    <div class="col one_third no_margin_right fp_services">
+        
+        <h2>4. Ciberseguridad</h2>
+        <div class="testimonial">
+          <p> <span style="font-size: 14px">Si en los últimos años <a href="https://www.thenewnow.es/?s=ciberseguridad">la ciberseguridad</a> ya era una prioridad para cualquier gran corporación y destinaba cada vez más recursos humanos y económicos a conseguirla, en los próximos meses será aún más importante a todos los niveles. <a href="https://www.incibe.es/">Las autoridades</a> han detectado un incremento exponencial de los ciberactaques y las acciones delictivas en la red y los departamentos de seguridad de las empresas alertan de que factores como el teletrabajo o Internet de las Cosas abren nuevos frentes cada día, puertas de entrada a los sistemas, difíciles de cubrir.</span></p>
+        </div>
+</div>
+    
+    <div class="cleaner"></div>
+</div> <!-- END of templatemo_main -->
+
+<div id="templatemo_bottom_wrapper">
+    <div id="templatemo_bottom">
+    	<div class="col one_third">
+        	<h4><span></span>Noticias</h4>
+            <div class="bottom_box">
+                <ul class="footer_list">
+                    <li></li>
+                </ul>
+            </div>
+    	</div>
+    	<div class="col one_third">
+        	<h4><span></span>Lo Mas Nuevo</h4>
+            <div class="bottom_box">
+                <ul class="twitter_post">
+                    <li></li>
+                </ul>
+			</div>
+        </div>
+        <div class="col one_third no_margin_right">
+        	<h4><span></span>COMPUTACION II</h4>
+        	<p>&nbsp;</p>
+            <div class="bottom_box">
+              <p>Informate Mas<br />              
+                </p>
+                <div class="footer_social_button">
+                    <a href="#"><img src="../images/facebook.png" title="facebook" alt="facebook" /></a>
+                    <a href="#"><img src="../images/flickr.png" title="flickr" alt="flickr" /></a>
+                    <a href="#"><img src="../images/twitter.png" title="twitter" alt="twitter" /></a>
+                    <a href="#"><img src="../images/youtube.png" title="youtube" alt="youtube" /></a>
+                    <a href="#"><img src="../images/feed.png" title="rss" alt="rss" /></a>
+                </div>
+            </div>
+        </div>
+        
+    	<div class="cleaner"></div>
+    </div> <!-- END of tempatemo_bottom -->
+</div> <!-- END of tempatemo_bottom_wrapper -->
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer"><span class="cleaner"><img src="../images/Logo-UCENM.png" width="155" height="58" alt=""/></span></div> <!-- Practica de computacion II -->
+</div> <!-- END of templatemo_footer -->
+
+</body>
+</html>
